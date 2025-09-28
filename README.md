@@ -29,54 +29,53 @@
 
 ### 🐑 SISOV - **Sistema de Rastreabilidade** Para **Ovinos** com **QR Code**
 [**SISOV**](https://github.com/SAUL-ALVES/SISOV) – Rastreabilidade segura dos animais.
-
+---
 
 ### 🔎 **OCR ENEM Project**
 📌 Projeto em **Python** que utiliza OCR para extração e tratamento de informações de provas do ENEM.  
 [🔗 ocr_enem](https://github.com/SAUL-ALVES/ocr_enem_project)
-
+---
 
 ### 🐾 **Projeto Petshop Full-Stack**
 Sistema **full-stack** para gerenciamento de serviços de um petshop, com autenticação e painel administrativo.  
 Desenvolvido com **JavaScript (Node.js + Front-End)**.  
 [🔗 PetShop Full-Stack](https://github.com/janiele376/projeto-pet-shop-fullstack)
-
+---
 
 ### ✅ **Gestão de Tarefas**
 📌 Sistema em **Python** para gerenciamento de tarefas e produtividade.  
 [🔗 Gestão De Tarefas](https://github.com/SAUL-ALVES/Gestao_Tarefas)
-
+---
 
 ### 🚗 **Manutenção de Veículos**
 📌 Aplicativo em **Kotlin** para controle de manutenção de veículos, pensado para Android.  
 [🔗 Manutenção de Veículos](https://github.com/SAUL-ALVES/Manutencao_Veiculos)
-
+---
 
 ### ⛽ **API Preços Combustível**
 📌 API em **Json** para monitoramento de preços de combustíveis com auxílio ao projeto de Manutenção de Veículos.  
 [🔗 API](https://github.com/SAUL-ALVES/api-precos-combustivel)
-
+---
 
 ### 🎓 **ADS**
 📌 Repositório com atividades, práticas e projetos do curso de **Análise e Desenvolvimento de Sistemas**.  
 [🔗 ADS](https://github.com/SAUL-ALVES/ADS)
-
+---
 
 ### 🌐 **Atividade Flask + PostgreSQL**
 📌 Projeto em **Python (Flask)** com banco **PostgreSQL** para aprendizado de back-end.  
 [🔗 Atividade](https://github.com/SaulAlves/atv-flask-postgres)
-
+---
 
 ## 📱 Desenvolvimento iOS com Swift
 🎯 Curso completo de **Desenvolvimento iOS** que aborda fundamentos de programação, interface gráfica e boas práticas para criação de aplicativos Apple.  
 📌 Repositório com exercícios e projetos práticos:  
 [🔗 Development in Swift](https://github.com/SAUL-ALVES/Development-in-Swift)
-
+---
 
 ## Finance Guard 
 🛡️ Sistema web para **gestão financeira pessoal**, desenvolvido com **Next.js, Tailwind, Firebase** e recursos modernos de autenticação.
 [🔗 Finance Guard](https://github.com/SAUL-ALVES/finance-guard_)
-
 ---
 
 ## 🧩 Outros Projetos Notáveis
