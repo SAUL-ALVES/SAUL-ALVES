@@ -104,5 +104,5 @@ Sistema web para **gestão financeira pessoal**, desenvolvido com **Next.js, Tai
 
 ## 🌎 Onde me encontrar
 📍 Tauá-CE  
-💼 [LinkedIn](www.linkedin.com/in/saul-alves)  
+💼 [LinkedIn](https://www.linkedin.com/in/saul-alves/)  
 📧 [GitHub](https://github.com/SAUL-ALVES)
