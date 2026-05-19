@@ -27,7 +27,7 @@
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20Hackathons-0d1117?style=for-the-badge" /><br/>
-      <strong>Top 3 em 2 eventos</strong>
+      <strong>Top 3 em 3 eventos</strong>
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Foco-0d1117?style=for-the-badge" /><br/>
