@@ -13,26 +13,29 @@
 ---
 
 ## 👨‍💻 Sobre mim
-
-```python
-class SaulAlves:
-    def __init__(self):
-        self.nome       = "Saul Alves"
-        self.localizacao = "Tauá-CE, Brasil 🇧🇷"
-        self.formacao   = "Análise e Desenvolvimento de Sistemas – IFCE"
-        self.foco       = ["Full-Stack", "Back-End", "Mobile (Android & iOS)"]
-        self.tecnologias = {
-            "linguagens":  ["Python", "JavaScript", "Kotlin", "Swift", "Java"],
-            "web":         ["Node.js", "Flask", "Next.js", "HTML5", "CSS3"],
-            "mobile":      ["Android (Kotlin)", "iOS (Swift)"],
-            "banco_dados": ["PostgreSQL", "Firebase"],
-            "ferramentas": ["Git", "GitHub", "VS Code", "Postman"],
-        }
-        self.conquistas = ["Top 3 em 2 Hackathons 🏆", "Projetos reais em produção 🚀"]
-
-    def objetivos(self):
-        return "Criar soluções que geram impacto real no mundo 💡"
-```
+ 
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-%F0%9F%93%8D%20Localiza%C3%A7%C3%A3o-0d1117?style=for-the-badge" /><br/>
+      <strong>Tauá-CE, Brasil</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-%F0%9F%8E%93%20Forma%C3%A7%C3%A3o-0d1117?style=for-the-badge" /><br/>
+      <strong>ADS – IFCE Tauá</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20Hackathons-0d1117?style=for-the-badge" /><br/>
+      <strong>Top 3 em 2 eventos</strong>
+    </td>
+    <td align="center" width="200">
+      <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Foco-0d1117?style=for-the-badge" /><br/>
+      <strong>Full-Stack & Mobile</strong>
+    </td>
+  </tr>
+</table>
+</div>
 
 ---
 
