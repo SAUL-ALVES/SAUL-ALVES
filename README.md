@@ -13,8 +13,9 @@
 ---
 
 ## 👨‍💻 Sobre mim
- 
+
 <div align="center">
+
 <table>
   <tr>
     <td align="center" width="200">
@@ -27,7 +28,7 @@
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/-%F0%9F%8F%86%20Hackathons-0d1117?style=for-the-badge" /><br/>
-      <strong>Top 3 em 3 eventos</strong>
+      <strong>Top 3 em 2 eventos</strong>
     </td>
     <td align="center" width="200">
       <img src="https://img.shields.io/badge/-%F0%9F%9A%80%20Foco-0d1117?style=for-the-badge" /><br/>
@@ -35,7 +36,10 @@
     </td>
   </tr>
 </table>
+
 </div>
+
+> 💡 Apaixonado por programação e soluções que geram impacto real. Atuo em projetos de **rastreabilidade**, **finanças**, **monitoramento inteligente** e **aplicações web full-stack**, sempre buscando evoluir em **Back-End**, **Full-Stack** e **Mobile (Android & iOS)**.
 
 ---
 
@@ -51,10 +55,9 @@
 
 ### 🌐 Web & Back-End
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Banco de Dados & Cloud
@@ -110,7 +113,7 @@
 
 | Projeto | Descrição | Tech |
 |---|---|---|
-| [🐑 SISOV](https://github.com/SAUL-ALVES/SISOV) | Sistema de rastreabilidade de ovinos com QR Code | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
+| [🐑 SISOV](https://github.com/SAUL-ALVES/SISOV) | Sistema de rastreabilidade de ovinos com QR Code | ![Python](https://img.shields.io/badge/-TypeScript-3776AB?logo=ts&logoColor=white&style=flat) |
 | [🔎 OCR ENEM](https://github.com/SAUL-ALVES/ocr_enem_project) | Extração e tratamento de dados de provas do ENEM via OCR | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat) |
 | [🐾 PetShop Full-Stack](https://github.com/janiele376/projeto-pet-shop-fullstack) | Sistema de gerenciamento de petshop com autenticação | ![Node.js](https://img.shields.io/badge/-Node.js-43853D?logo=node.js&logoColor=white&style=flat) ![JS](https://img.shields.io/badge/-JS-F7DF1E?logo=javascript&logoColor=black&style=flat) |
 | [🛡️ Finance Guard](https://github.com/SAUL-ALVES/finance-guard_) | Gestão financeira pessoal com autenticação moderna | ![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat) |
